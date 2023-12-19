@@ -6,4 +6,4 @@ merge test
 바뀌나?
 abcd
 efgh
-2023년 12월 19일
+화요일
